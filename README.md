@@ -13,22 +13,22 @@ This repository hosts the accepted papers of the **SilkRoadNLP 2026** workshop, 
 
 ## Accepted Papers
 
-| # | Title | Authors | Resources | Poster |
-|---|-------|---------|-----------|--------|
-| 2 | [Unmasking the Factual-Conceptual Gap in Persian Language Models](proceedings/2.pdf) | Alireza Sakhaeirad, Ali Ma'manpoosh, Arshia Hemmat | [![HuggingFace](https://img.shields.io/badge/🤗-Dataset-yellow)](https://huggingface.co/datasets/divanbench/divanbench) | — |
-| 3 | [Benchmarking Offensive Language Detection in Persian and Pashto](proceedings/3.pdf) | Zahra Bokaei, Bonnie Webber, Walid Magdy | — | — |
-| 4 | [Do Large Language Models Understand Double Mismatches? Evidence from Farsi](proceedings/4.pdf) | Maryam Mohammadi | — | — |
-| 5 | [TajPersLexon: A Tajik–Persian Lexical Resource and Hybrid Model for Cross-Script Low-Resource NLP](proceedings/5.pdf) | Mullosharaf Kurbonovich Arabov | — | — |
-| 6 | [A Computational Approach to Language Contact — A Case Study of Persian](proceedings/6.pdf) | Ali Basirat, Danial Namazifard, Navid Baradaran Hemmati | — | — |
-| 7 | [Online Polarization Detection in Persian (Farsi) Social Media](proceedings/7.pdf) | Saeedeh Davoudi, Nazli Goharian | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/dsaeedeh/Polarization_Detection) | — |
-| 8 | [ParsCORE: The Persian Corpus of Online Registers](proceedings/8.pdf) | Alireza Razzaghi, Erik Henriksson, Veronika Laippala | `Dataset & Code on GitHub (link TBD)` | — |
-| 10 | [PMWP: A Benchmark for Math Word Problem Solving in Persian](proceedings/10.pdf) | Marzieh Abdolmaleki, Mehrnoush Shamsfard, Veronique Hoste, Els Lefever | [![GitHub](https://img.shields.io/badge/GitHub-Dataset-black?logo=github)](https://github.com/marzieh-abdolmaleki/PMWP) | — |
-| 11 | [APARSIN: A Multi-Variety Sentiment and Translation Benchmark for Iranic Languages](proceedings/11.pdf) | Sadegh Jafari, Tara Azin, Farhad Roodi, Zahra Dehghani Tafti, Mehrdad Ghadrdan, Elham Vatankhahan Esfahani, Aylin Naebzadeh, Mohammadhadi Shahhosseini, Ghafoor Khan, Kazem Forghani, Danial Namazi, Seyed Mohammad Hossein Hashemi, Farhan Farsi, Mohammad Osoolian, Maede Mohammadi, Mohammad Erfan Zare, Muhammad Hasnain Khan, Muhammad Hussain, Nooreen Zaki, Joma Mohammadi, Shayan Bali, Mohammad Javad Ranjbar, Els Lefever, Veronique Hoste | [![GitHub](https://img.shields.io/badge/GitHub-Benchmark-black?logo=github)](https://github.com/SilkRoadAparsin) | — |
-| 12 | [One Language, Three of Its Voices: Evaluating Multilingual LLMs Across Persian, Dari, and Tajiki on Translation and Understanding Tasks](proceedings/12.pdf) | Noor Mairukh Khan Arnob, Abu Bakar Siddique Mahi | — | — |
-| 13 | [PersianPunc: A Large-Scale Dataset and BERT-Based Approach for Persian Punctuation Restoration](proceedings/13.pdf) | Mohammad Javad Ranjbar Kalahroodi, Heshaam Faili, Azadeh Shakery | `Dataset & Model publicly available (link TBD)` | — |
-| 15 | [Shughni Machine Translation Enhanced by Donor Languages](proceedings/15.pdf) | Dmitry Novokshanov, Innokentiy S. Humonen, Ilya Makarov | [![HuggingFace](https://img.shields.io/badge/🤗-Demo-yellow)](https://huggingface.co/spaces/Novokshanov/Shughni-Translator) | — |
-| 16 | [Segmentation Strategy Matters: Benchmarking Whisper on Persian YouTube Content](proceedings/16.pdf) | Reihaneh Iranmanesh, Rojin Ziaei, Joe Garman | [![GitHub](https://img.shields.io/badge/GitHub-Dataset_&_Code-black?logo=github)](https://github.com/ri164-bolleit/persian-youtube-whisper-benchmark) | — |
-| 18 | [Multi-modal Neural Machine Translation for Low-Resource Classical Persian Poetry: A Culture-Aware Evaluation](proceedings/18.pdf) | Soheila Ansari, Mounir Boukadoum, Fatiha Sadat | [![GitHub](https://img.shields.io/badge/GitHub-Corpus-black?logo=github)](https://github.com/amnghd/Persian_poems_corpus/tree/master) | — |
+| # | PDF | Title | Authors | Resources | Poster |
+|---|-----|-------|---------|-----------|--------|
+| 2 | [📄](proceedings/2.pdf) | Unmasking the Factual-Conceptual Gap in Persian Language Models | Alireza Sakhaeirad, Ali Ma'manpoosh, Arshia Hemmat | [![HuggingFace](https://img.shields.io/badge/🤗-Dataset-yellow)](https://huggingface.co/datasets/divanbench/divanbench) | — |
+| 3 | [📄](proceedings/3.pdf) | Benchmarking Offensive Language Detection in Persian and Pashto | Zahra Bokaei, Bonnie Webber, Walid Magdy | — | — |
+| 4 | [📄](proceedings/4.pdf) | Do Large Language Models Understand Double Mismatches? Evidence from Farsi | Maryam Mohammadi | — | — |
+| 5 | [📄](proceedings/5.pdf) | TajPersLexon: A Tajik–Persian Lexical Resource and Hybrid Model for Cross-Script Low-Resource NLP | Mullosharaf Kurbonovich Arabov | — | — |
+| 6 | [📄](proceedings/6.pdf) | A Computational Approach to Language Contact — A Case Study of Persian | Ali Basirat, Danial Namazifard, Navid Baradaran Hemmati | — | — |
+| 7 | [📄](proceedings/7.pdf) | Online Polarization Detection in Persian (Farsi) Social Media | Saeedeh Davoudi, Nazli Goharian | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/dsaeedeh/Polarization_Detection) | — |
+| 8 | [📄](proceedings/8.pdf) | ParsCORE: The Persian Corpus of Online Registers | Alireza Razzaghi, Erik Henriksson, Veronika Laippala | `Dataset & Code on GitHub (link TBD)` | — |
+| 10 | [📄](proceedings/10.pdf) | PMWP: A Benchmark for Math Word Problem Solving in Persian | Marzieh Abdolmaleki, Mehrnoush Shamsfard, Veronique Hoste, Els Lefever | [![GitHub](https://img.shields.io/badge/GitHub-Dataset-black?logo=github)](https://github.com/marzieh-abdolmaleki/PMWP) | — |
+| 11 | [📄](proceedings/11.pdf) | APARSIN: A Multi-Variety Sentiment and Translation Benchmark for Iranic Languages | Sadegh Jafari, Tara Azin, Farhad Roodi, Zahra Dehghani Tafti, Mehrdad Ghadrdan, Elham Vatankhahan Esfahani, Aylin Naebzadeh, Mohammadhadi Shahhosseini, Ghafoor Khan, Kazem Forghani, Danial Namazi, Seyed Mohammad Hossein Hashemi, Farhan Farsi, Mohammad Osoolian, Maede Mohammadi, Mohammad Erfan Zare, Muhammad Hasnain Khan, Muhammad Hussain, Nooreen Zaki, Joma Mohammadi, Shayan Bali, Mohammad Javad Ranjbar, Els Lefever, Veronique Hoste | [![GitHub](https://img.shields.io/badge/GitHub-Benchmark-black?logo=github)](https://github.com/SilkRoadAparsin) | — |
+| 12 | [📄](proceedings/12.pdf) | One Language, Three of Its Voices: Evaluating Multilingual LLMs Across Persian, Dari, and Tajiki on Translation and Understanding Tasks | Noor Mairukh Khan Arnob, Abu Bakar Siddique Mahi | — | — |
+| 13 | [📄](proceedings/13.pdf) | PersianPunc: A Large-Scale Dataset and BERT-Based Approach for Persian Punctuation Restoration | Mohammad Javad Ranjbar Kalahroodi, Heshaam Faili, Azadeh Shakery | `Dataset & Model publicly available (link TBD)` | — |
+| 15 | [📄](proceedings/15.pdf) | Shughni Machine Translation Enhanced by Donor Languages | Dmitry Novokshanov, Innokentiy S. Humonen, Ilya Makarov | [![HuggingFace](https://img.shields.io/badge/🤗-Demo-yellow)](https://huggingface.co/spaces/Novokshanov/Shughni-Translator) | — |
+| 16 | [📄](proceedings/16.pdf) | Segmentation Strategy Matters: Benchmarking Whisper on Persian YouTube Content | Reihaneh Iranmanesh, Rojin Ziaei, Joe Garman | [![GitHub](https://img.shields.io/badge/GitHub-Dataset_&_Code-black?logo=github)](https://github.com/ri164-bolleit/persian-youtube-whisper-benchmark) | — |
+| 18 | [📄](proceedings/18.pdf) | Multi-modal Neural Machine Translation for Low-Resource Classical Persian Poetry: A Culture-Aware Evaluation | Soheila Ansari, Mounir Boukadoum, Fatiha Sadat | [![GitHub](https://img.shields.io/badge/GitHub-Corpus-black?logo=github)](https://github.com/amnghd/Persian_poems_corpus/tree/master) | — |
 
 ---
 
